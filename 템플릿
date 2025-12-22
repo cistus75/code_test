@@ -1,0 +1,17 @@
+# 입력 속도 
+# 문자열은 rstrip 필수
+
+import sys
+input = sys.stdin.readline
+
+input().rstrip()
+
+
+# 빈 함수
+
+def main():
+
+    return
+
+
+
