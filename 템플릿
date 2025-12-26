@@ -14,4 +14,11 @@ def main():
     return
 
 
+# 조합 문제 
+
+from itertools import combinations # 조합
+from itertools import permutations # 순열
+
+
+
 
